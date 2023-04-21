@@ -9,4 +9,4 @@ The details of connection are provided in application.properties file.
 
 
 ## **How to run on Azure?**
-Watch this YouTube video for details
+Watch this YouTube video for details - https://youtu.be/P9NTlAjXcck
