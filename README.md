@@ -1,5 +1,5 @@
 # AWS RabbitMQ with Azure
-This is a Spring Boot Application written in JAVA. It communicates with AWS RabbitMQ to publish and consume messages from the queue. 
+This is a MAVEN Spring Boot Application written in JAVA. It communicates with AWS RabbitMQ to publish and consumes messages from the queue. 
 
 The details of connection are provided in application.properties file.
 
